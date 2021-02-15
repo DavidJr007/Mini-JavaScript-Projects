@@ -1,6 +1,6 @@
 # Bill Calculator
 
-Show live: https://davidjr007.github.io/Portfolio-Projects/FormValidator
+Show live: https://davidjr007.github.io/Mini-JavaScript-Projects/FormValidator
 
 ## Table of contents
 
