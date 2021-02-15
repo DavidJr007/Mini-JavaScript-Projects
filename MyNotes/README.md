@@ -1,4 +1,4 @@
-# Mini Shop
+# MyNotes
 Show live: https://davidjr007.github.io/Mini-JavaScript-Projects/MyNotes
 
 ## Table of contents
