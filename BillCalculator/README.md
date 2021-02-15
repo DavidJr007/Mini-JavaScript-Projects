@@ -1,5 +1,5 @@
 # Bill Calculator
-Show live: https://davidjr007.github.io/Portfolio-Projects/BillCalculator
+Show live: https://davidjr007.github.io/Mini-JavaScript-Projects/BillCalculator
 
 ## Table of contents
 * [General info](#general-info)
