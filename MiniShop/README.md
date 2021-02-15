@@ -1,5 +1,5 @@
 # Mini Shop
-Show live: https://davidjr007.github.io/Portfolio-Projects/MiniShop
+Show live: https://davidjr007.github.io/Mini-JavaScript-Projects/MiniShop
 
 ## Table of contents
 * [General info](#general-info)
