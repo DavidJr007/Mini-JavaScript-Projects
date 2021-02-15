@@ -1,5 +1,5 @@
 # Currency Exchanger
-Show live: https://davidjr007.github.io/Mini-JavaScript-Projects/BillCalculator
+Show live: https://davidjr007.github.io/Mini-JavaScript-Projects/CurrencyExchanger
 
 ## Table of contents
 * [General info](#general-info)
