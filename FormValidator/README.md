@@ -1,4 +1,4 @@
-# Bill Calculator
+# FormValidator
 
 Show live: https://davidjr007.github.io/Mini-JavaScript-Projects/FormValidator
 
