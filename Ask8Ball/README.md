@@ -1,5 +1,5 @@
 # Magic Ball
-Show live: https://davidjr007.github.io/Portfolio-Projects/Ask8Ball
+Show live: https://davidjr007.github.io/Mini-JavaScript-Projects/Ask8Ball
 
 ## Table of contents
 * [General info](#general-info)
